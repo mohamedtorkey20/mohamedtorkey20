@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [mohamedtorkey132@gmail.com](mohamedtorkey132@gmail.com)
 
-- 📄 If you want to know more about my experience, you can check out my [resume](https://drive.google.com/drive/u/0/folders/1MUJ18MFDQ4oIVV46mzLYmNpLrFeLcOg1)
+- 📄 If you want to know more about my experience, you can check out my [resume](https://drive.google.com/file/d/1QrG1rcBQwUW7Og3ugd_Odo3Lbb75YW8l/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
