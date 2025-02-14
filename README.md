@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtorkey20&label=Profile%20views&color=0e75b6&style=flat-square" alt="mohamedtorkey20" /> </p>
 
-- 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with  **HTML**, **CSS**,**Taiwind**,**JavaScript**, **TypeScript**, **React**,**NextJs** ,**NodeJs**,NestJs**.
+- 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with  **HTML**, **CSS**,**Tailwind**,**JavaScript**, **TypeScript**, **React**,**NextJs** ,**NodeJs**,**NestJs**.
 
 - 🔭 Currently, I'm working at  [KiroTravel](https://www.linkedin.com/company/kiro-travel/) as a Software Engineer, where I work on creating and maintaining their products.
 
@@ -32,6 +32,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedtorkey20&show_icons=true&theme=dark&locale=en&layout=compact" alt="mohamedtorkey20" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedtorkey20&theme=dark" alt="GitHub Streak" />
+
 
 </p>
